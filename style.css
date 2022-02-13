@@ -1,0 +1,10 @@
+#SumbitBtn { 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+} 
+#SortBtn {
+     display: none;
+      margin-top: 20px; 
+      margin-bottom: 20px; 
+    } 
+    input { margin: 10px; }
